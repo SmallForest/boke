@@ -1,2 +1,2 @@
 # boke
-stage some files
+storage some files
